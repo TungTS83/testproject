@@ -3,3 +3,4 @@ trang chu
 
 - đây là sửa đổi của tung ts
 - sửa đổi cho git rebase
+- đây là sửa đổi tại master
