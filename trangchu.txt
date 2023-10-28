@@ -1,7 +1,9 @@
 trang chu
 đây là trung chủ của tùng ts1
+- đây là sửa đổi tại master
 
 - đây là sửa đổi của tung ts
+
 - sửa đổi cho git rebase
 - đây là sửa đổi tại master
 - đây là sửa đổi tại master
@@ -11,4 +13,8 @@ trang chu
 
 
 
+
 - đây là sửa đổi của tung ts mater rebase
+
+- sửa đổi cho git rebase
+
