@@ -1,6 +1,12 @@
 trang chu
 đây là trung chủ của tùng ts1
+<<<<<<< HEAD
 
 - đây là sửa đổi của tung ts
 - sửa đổi cho git rebase
 - đây là sửa đổi tại master
+=======
+- đây là sửa đổi tại master
+
+- đây là sửa đổi của tung ts
+>>>>>>> aef733a (abc)
