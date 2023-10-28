@@ -8,3 +8,4 @@ trang chu
 
 
 - đây là sửa đổi của tung ts mater rebase
+- sửa đổi cho git rebase
